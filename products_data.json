@@ -1,0 +1,120 @@
+ [
+ {
+    "id": 0,
+    "name": "No Virus Chilli",
+    "orignal_price" : "895.00",
+    "discount_price": "369.00",
+    "image": "/public/no_virus_chilli.png",
+    "category": "Growth Promoter",
+    "brand": "Geolife",
+    "ingredients" : "Bio Viricide",
+    "discription" : "Geolife No Virus is an organic viricide made with a unique combination of herbs."
+  },
+
+ {
+    "id": 1,
+    "name": "Fenos Quick 100ml + Curzate 300gm + Legend 48gm",
+    "orignal_price" : "2024.00",
+    "discount_price": "1420.00",
+    "image": "/public/Fenos_Quick.jpg",
+    "category": "Combo Offer",
+    "brand": "N/A",
+    "ingredients" : "N/A",
+    "discription" : "N/A."
+  },
+
+ {
+    "id": 2,
+    "name": "Legend",
+    "orignal_price" : "792.00",
+    "discount_price": "499.00",
+    "image": "/public/Legend.jpg",
+    "category": "Growth Promoter",
+    "brand": "FMC",
+    "ingredients" : "Potash derived from Rhodophytes",
+    "discription" : "Legend® bio solutions is loaded with Sulphur and Bio active Molecules apart from Potash It is a powder formulation containing organic Potash that helps in activation & expression of genes because it is based on SURGE Technology (Selective Upregulation of Gene Expression). Legend® bio solutions is a certfied Organic Fertilizer that helps improve overall quality of produce & helps in higher yield."
+  },
+
+ {
+    "id": 3,
+    "name": "Marshal",
+    "orignal_price" : "1584.00",
+    "discount_price": "1273.00",
+    "image": "/public/Marshal.jpg",
+    "category": "Insecticide",
+    "brand": "FMC",
+    "ingredients" : "Carbosulfan 25% EC",
+    "discription" : "Broad spectrum insecticide that gives effective control over chewing and sucking pests in various crops Marshal® insecticide through its dual contact and stomach poison action on the pests"
+  },
+
+ {
+    "id": 4,
+    "name": "Nativo",
+    "orignal_price" : "1200.00",
+    "discount_price": "887.00",
+    "image": "/public/Nativo.jpg",
+    "category": "Fungicide",
+    "brand": "Bayer",
+    "ingredients" : "Tebuconazole 50% + Trifloxystrobin 25% w/w WG (75 WG)",
+    "discription" : "Nativo is a new combination fungicide containing Tebuconazole and Trifloxystrobin. Nativo is a systemic broad-spectrum fungicide with protective and curative action which offers not only a disease control but also improves quality and yield of crop."
+  },
+{
+    "id": 5,
+    "name": "Avtar",
+    "orignal_price" : "434.00",
+    "discount_price": "377.00",
+    "image": "/public/Avtar.png",
+    "category": "Fungicide",
+    "brand": "Indofil",
+    "ingredients" : "Hexaconazole 4 % + Zineb 68 % WP",
+    "discription" : "t is a unique combination fungicide, besides controlling many diseases provides Zinc nutrition also."
+  },
+
+ {
+    "id": 6,
+    "name": "Penveer Plus",
+    "orignal_price" : "515.00",
+    "discount_price": "515.00",
+    "image": "/public/Penveer.png",
+    "category": "Herbicide",
+    "brand": "Chambal",
+    "ingredients" : "Pendimethalin 38.7% CS",
+    "discription" : "Selective & Pre-plant incorporation Herbicide"
+  },
+
+ {
+    "id": 7,
+    "name": "Gateway",
+    "orignal_price" : "1170.00",
+    "discount_price": "731.00",
+    "image": "/public/Gateway.jpg",
+    "category": "Insecticide",
+    "brand": "Rallis",
+    "ingredients" : "Chlorantraniliprole 18.5% SC",
+    "discription" : "Tata Rallis Gateway is a broad-spectrum insecticide based on Chlorantraniliprole 18.5% SC. It is highly effective against Lepidopteran insect pests, especially at the larval stage. Its unique mode of action helps control pests that have developed resistance to other insecticides. It is safe for natural predators, pollinators, and beneficial arthropods, making it an eco-friendly choice for integrated pest management."
+  },
+
+ {
+    "id": 8,
+    "name": "Saaf",
+    "orignal_price" : "920.00",
+    "discount_price": "695.00",
+    "image": "/public/Saaf.jpg",
+    "category": "Fungicide",
+    "brand": "UPL",
+    "ingredients" : "Carbendazim 12% + Mancozeb 63% WP",
+    "discription" : "A proven & classic fungicide with systemic & contact action. Most trusted & widely used dual mode of action fungicide With a legacy spanning decades, Saaf is among the most trusted fungicides in India, effective across a range of crops and diseases."
+  },
+
+ {
+    "id": 9,
+    "name": "Nature deep",
+    "orignal_price" : "925.00",
+    "discount_price": "656.00",
+    "image": "/public/Nature_deep.jpg",
+    "category": "Growth Promoter",
+    "brand": "Sumitomo",
+    "ingredients" : "Mycorrhiza 50.0%",
+    "discription" : "Nature Deep powder in this packet is sufficient enough to seed treatment/ soil drenching to the given area to be broadcasted or given seeding for root dipping depending upon specified crops as denoted on the packet Mix the inoculate with seed gently with a minimum amount of water, taking care to avoid damage to the seed coat Dry the inoculated seed under shade over a clean surface."
+  }
+]
