@@ -1,10 +1,11 @@
 const express = require("express");
 const products = require('./products_data.json');
+const cors = require('cors');
 
 const app = express();
 const PORT = process.env.PORT || 8000;
 
-
+app.use(cors());
 app.use('/public', express.static('public'));
 
 app.get("/", (req, res) => {
