@@ -17,9 +17,23 @@ app.get("/products", (req, res) => {
   return res.json(products);
 });
 
-app.get("/products/:id", (req, res) => {
-  const id = Number(req.params.id);
-  const product = products.find((p) => p.id === id);
+// 🚨 UPDATED ROUTE TO SEARCH BY SLUG 🚨
+app.get("/products/:slug", (req, res) => {
+  const incomingSlug = req.params.slug; // This is the string, e.g., "high-quality-organic-fertilizer"
+
+  // Function to convert a product name to the same slug format
+  const getProductSlug = (name) => {
+    return name.toLowerCase().replace(/\s+/g, "-");
+  }
+  
+  // Find the product by matching the generated slug to the incoming URL slug
+  const product = products.find((p) => getProductSlug(p.name) === incomingSlug);
+  
+  // Handle case where product is not found
+  if (!product) {
+      return res.status(404).json({ message: "Product not found by slug." });
+  }
+
   return res.json(product);
 });
 
